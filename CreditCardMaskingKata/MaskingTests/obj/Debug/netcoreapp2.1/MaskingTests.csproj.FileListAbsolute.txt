@@ -1,0 +1,17 @@
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\MaskingTests.deps.json
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\MaskingTests.runtimeconfig.json
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\MaskingTests.runtimeconfig.dev.json
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\MaskingTests.dll
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\MaskingTests.pdb
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\Masking.dll
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\bin\Debug\netcoreapp2.1\Masking.pdb
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\obj\Debug\netcoreapp2.1\MaskingTests.csprojAssemblyReference.cache
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\obj\Debug\netcoreapp2.1\MaskingTests.csproj.CoreCompileInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\obj\Debug\netcoreapp2.1\MaskingTests.AssemblyInfoInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\obj\Debug\netcoreapp2.1\MaskingTests.AssemblyInfo.cs
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\obj\Debug\netcoreapp2.1\MaskingTests.csproj.CopyComplete
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\obj\Debug\netcoreapp2.1\MaskingTests.dll
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\MaskingTests\obj\Debug\netcoreapp2.1\MaskingTests.pdb

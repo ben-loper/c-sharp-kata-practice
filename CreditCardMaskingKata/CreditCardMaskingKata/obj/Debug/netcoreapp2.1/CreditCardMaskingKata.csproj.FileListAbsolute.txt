@@ -1,0 +1,11 @@
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\bin\Debug\netcoreapp2.1\CreditCardMaskingKata.deps.json
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\bin\Debug\netcoreapp2.1\CreditCardMaskingKata.runtimeconfig.json
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\bin\Debug\netcoreapp2.1\CreditCardMaskingKata.runtimeconfig.dev.json
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\bin\Debug\netcoreapp2.1\CreditCardMaskingKata.dll
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\bin\Debug\netcoreapp2.1\CreditCardMaskingKata.pdb
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\obj\Debug\netcoreapp2.1\CreditCardMaskingKata.csprojAssemblyReference.cache
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\obj\Debug\netcoreapp2.1\CreditCardMaskingKata.csproj.CoreCompileInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\obj\Debug\netcoreapp2.1\CreditCardMaskingKata.AssemblyInfoInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\obj\Debug\netcoreapp2.1\CreditCardMaskingKata.AssemblyInfo.cs
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\obj\Debug\netcoreapp2.1\CreditCardMaskingKata.dll
+C:\workspace\kata\c-sharp-kata-practice\CreditCardMaskingKata\CreditCardMaskingKata\obj\Debug\netcoreapp2.1\CreditCardMaskingKata.pdb

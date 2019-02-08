@@ -1,0 +1,17 @@
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\WhoLikeItKataTests.deps.json
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\WhoLikeItKataTests.runtimeconfig.json
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\WhoLikeItKataTests.runtimeconfig.dev.json
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\WhoLikeItKataTests.dll
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\WhoLikeItKataTests.pdb
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\WhoLikeItKata.dll
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\bin\Debug\netcoreapp2.1\WhoLikeItKata.pdb
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\obj\Debug\netcoreapp2.1\WhoLikeItKataTests.csprojAssemblyReference.cache
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\obj\Debug\netcoreapp2.1\WhoLikeItKataTests.csproj.CoreCompileInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\obj\Debug\netcoreapp2.1\WhoLikeItKataTests.AssemblyInfoInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\obj\Debug\netcoreapp2.1\WhoLikeItKataTests.AssemblyInfo.cs
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\obj\Debug\netcoreapp2.1\WhoLikeItKataTests.csproj.CopyComplete
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\obj\Debug\netcoreapp2.1\WhoLikeItKataTests.dll
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKataTests\obj\Debug\netcoreapp2.1\WhoLikeItKataTests.pdb

@@ -1,0 +1,11 @@
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\bin\Debug\netcoreapp2.1\WhoLikeItKata.deps.json
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\bin\Debug\netcoreapp2.1\WhoLikeItKata.runtimeconfig.json
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\bin\Debug\netcoreapp2.1\WhoLikeItKata.runtimeconfig.dev.json
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\bin\Debug\netcoreapp2.1\WhoLikeItKata.dll
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\bin\Debug\netcoreapp2.1\WhoLikeItKata.pdb
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\obj\Debug\netcoreapp2.1\WhoLikeItKata.csprojAssemblyReference.cache
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\obj\Debug\netcoreapp2.1\WhoLikeItKata.csproj.CoreCompileInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\obj\Debug\netcoreapp2.1\WhoLikeItKata.AssemblyInfoInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\obj\Debug\netcoreapp2.1\WhoLikeItKata.AssemblyInfo.cs
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\obj\Debug\netcoreapp2.1\WhoLikeItKata.dll
+C:\workspace\kata\c-sharp-kata-practice\WhoLikeItKata\WhoLikeItKata\obj\Debug\netcoreapp2.1\WhoLikeItKata.pdb

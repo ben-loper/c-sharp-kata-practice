@@ -1,0 +1,17 @@
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\MumblingTests.deps.json
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\MumblingTests.runtimeconfig.json
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\MumblingTests.runtimeconfig.dev.json
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\MumblingTests.dll
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\MumblingTests.pdb
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\Mumbling.dll
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\bin\Debug\netcoreapp2.1\Mumbling.pdb
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\obj\Debug\netcoreapp2.1\MumblingTests.csprojAssemblyReference.cache
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\obj\Debug\netcoreapp2.1\MumblingTests.csproj.CoreCompileInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\obj\Debug\netcoreapp2.1\MumblingTests.AssemblyInfoInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\obj\Debug\netcoreapp2.1\MumblingTests.AssemblyInfo.cs
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\obj\Debug\netcoreapp2.1\MumblingTests.csproj.CopyComplete
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\obj\Debug\netcoreapp2.1\MumblingTests.dll
+C:\workspace\kata\c-sharp-kata-practice\MumblingKata\MumblingTests\obj\Debug\netcoreapp2.1\MumblingTests.pdb

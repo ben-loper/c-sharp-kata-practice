@@ -1,0 +1,17 @@
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\SumOfNumbersTests.deps.json
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\SumOfNumbersTests.runtimeconfig.json
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\SumOfNumbersTests.runtimeconfig.dev.json
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\SumOfNumbersTests.dll
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\SumOfNumbersTests.pdb
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\SumOfNumbersKata.dll
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\bin\Debug\netcoreapp2.1\SumOfNumbersKata.pdb
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\obj\Debug\netcoreapp2.1\SumOfNumbersTests.csprojAssemblyReference.cache
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\obj\Debug\netcoreapp2.1\SumOfNumbersTests.csproj.CoreCompileInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\obj\Debug\netcoreapp2.1\SumOfNumbersTests.AssemblyInfoInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\obj\Debug\netcoreapp2.1\SumOfNumbersTests.AssemblyInfo.cs
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\obj\Debug\netcoreapp2.1\SumOfNumbersTests.csproj.CopyComplete
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\obj\Debug\netcoreapp2.1\SumOfNumbersTests.dll
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersTests\obj\Debug\netcoreapp2.1\SumOfNumbersTests.pdb

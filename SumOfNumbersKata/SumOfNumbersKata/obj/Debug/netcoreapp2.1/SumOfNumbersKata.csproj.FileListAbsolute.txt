@@ -1,0 +1,11 @@
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\bin\Debug\netcoreapp2.1\SumOfNumbersKata.deps.json
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\bin\Debug\netcoreapp2.1\SumOfNumbersKata.runtimeconfig.json
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\bin\Debug\netcoreapp2.1\SumOfNumbersKata.runtimeconfig.dev.json
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\bin\Debug\netcoreapp2.1\SumOfNumbersKata.dll
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\bin\Debug\netcoreapp2.1\SumOfNumbersKata.pdb
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\obj\Debug\netcoreapp2.1\SumOfNumbersKata.csprojAssemblyReference.cache
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\obj\Debug\netcoreapp2.1\SumOfNumbersKata.csproj.CoreCompileInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\obj\Debug\netcoreapp2.1\SumOfNumbersKata.AssemblyInfoInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\obj\Debug\netcoreapp2.1\SumOfNumbersKata.AssemblyInfo.cs
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\obj\Debug\netcoreapp2.1\SumOfNumbersKata.dll
+C:\workspace\kata\c-sharp-kata-practice\SumOfNumbersKata\SumOfNumbersKata\obj\Debug\netcoreapp2.1\SumOfNumbersKata.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MumblingCLI", "MumblingCLI\MumblingCLI.csproj", "{0B4D4371-A52B-4C93-86CA-40DBA05936A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mumbling", "Mumbling\Mumbling.csproj", "{95631126-148D-4E2A-8E88-19E769AFA54E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MumblingTests", "MumblingTests\MumblingTests.csproj", "{936DD8DE-B1D1-4C7B-B180-10BE460117E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B4D4371-A52B-4C93-86CA-40DBA05936A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4D4371-A52B-4C93-86CA-40DBA05936A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4D4371-A52B-4C93-86CA-40DBA05936A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4D4371-A52B-4C93-86CA-40DBA05936A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95631126-148D-4E2A-8E88-19E769AFA54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95631126-148D-4E2A-8E88-19E769AFA54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95631126-148D-4E2A-8E88-19E769AFA54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95631126-148D-4E2A-8E88-19E769AFA54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936DD8DE-B1D1-4C7B-B180-10BE460117E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936DD8DE-B1D1-4C7B-B180-10BE460117E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936DD8DE-B1D1-4C7B-B180-10BE460117E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936DD8DE-B1D1-4C7B-B180-10BE460117E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190BE526-58AA-458D-B989-B9755C9E64BB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\ListFilteringKataTests.deps.json
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\ListFilteringKataTests.runtimeconfig.json
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\ListFilteringKataTests.runtimeconfig.dev.json
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\ListFilteringKataTests.dll
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\ListFilteringKataTests.pdb
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\ListFilteringKata.dll
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\bin\Debug\netcoreapp2.1\ListFilteringKata.pdb
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\obj\Debug\netcoreapp2.1\ListFilteringKataTests.csprojAssemblyReference.cache
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\obj\Debug\netcoreapp2.1\ListFilteringKataTests.csproj.CoreCompileInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\obj\Debug\netcoreapp2.1\ListFilteringKataTests.AssemblyInfoInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\obj\Debug\netcoreapp2.1\ListFilteringKataTests.AssemblyInfo.cs
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\obj\Debug\netcoreapp2.1\ListFilteringKataTests.csproj.CopyComplete
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\obj\Debug\netcoreapp2.1\ListFilteringKataTests.dll
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKataTests\obj\Debug\netcoreapp2.1\ListFilteringKataTests.pdb

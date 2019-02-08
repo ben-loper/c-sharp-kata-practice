@@ -1,0 +1,11 @@
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\bin\Debug\netcoreapp2.1\ListFilteringKata.deps.json
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\bin\Debug\netcoreapp2.1\ListFilteringKata.runtimeconfig.json
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\bin\Debug\netcoreapp2.1\ListFilteringKata.runtimeconfig.dev.json
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\bin\Debug\netcoreapp2.1\ListFilteringKata.dll
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\bin\Debug\netcoreapp2.1\ListFilteringKata.pdb
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\obj\Debug\netcoreapp2.1\ListFilteringKata.csprojAssemblyReference.cache
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\obj\Debug\netcoreapp2.1\ListFilteringKata.csproj.CoreCompileInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\obj\Debug\netcoreapp2.1\ListFilteringKata.AssemblyInfoInputs.cache
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\obj\Debug\netcoreapp2.1\ListFilteringKata.AssemblyInfo.cs
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\obj\Debug\netcoreapp2.1\ListFilteringKata.dll
+C:\workspace\kata\c-sharp-kata-practice\ListFilteringKata\ListFilteringKata\obj\Debug\netcoreapp2.1\ListFilteringKata.pdb

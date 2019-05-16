@@ -1,0 +1,11 @@
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\bin\Debug\netcoreapp2.2\SplitStrings.deps.json
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\bin\Debug\netcoreapp2.2\SplitStrings.runtimeconfig.json
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\bin\Debug\netcoreapp2.2\SplitStrings.runtimeconfig.dev.json
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\bin\Debug\netcoreapp2.2\SplitStrings.dll
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\bin\Debug\netcoreapp2.2\SplitStrings.pdb
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\obj\Debug\netcoreapp2.2\SplitStrings.csprojAssemblyReference.cache
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\obj\Debug\netcoreapp2.2\SplitStrings.csproj.CoreCompileInputs.cache
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\obj\Debug\netcoreapp2.2\SplitStrings.AssemblyInfoInputs.cache
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\obj\Debug\netcoreapp2.2\SplitStrings.AssemblyInfo.cs
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\obj\Debug\netcoreapp2.2\SplitStrings.dll
+C:\workspace\c-sharp-kata-practice\SplitStrings\SplitStrings\obj\Debug\netcoreapp2.2\SplitStrings.pdb

@@ -1,0 +1,11 @@
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\bin\Debug\netcoreapp2.2\VowelCount.deps.json
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\bin\Debug\netcoreapp2.2\VowelCount.runtimeconfig.json
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\bin\Debug\netcoreapp2.2\VowelCount.runtimeconfig.dev.json
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\bin\Debug\netcoreapp2.2\VowelCount.dll
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\bin\Debug\netcoreapp2.2\VowelCount.pdb
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\obj\Debug\netcoreapp2.2\VowelCount.csprojAssemblyReference.cache
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\obj\Debug\netcoreapp2.2\VowelCount.csproj.CoreCompileInputs.cache
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\obj\Debug\netcoreapp2.2\VowelCount.AssemblyInfoInputs.cache
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\obj\Debug\netcoreapp2.2\VowelCount.AssemblyInfo.cs
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\obj\Debug\netcoreapp2.2\VowelCount.dll
+C:\workspace\c-sharp-kata-practice\VowelCount\VowelCount\obj\Debug\netcoreapp2.2\VowelCount.pdb

@@ -1,0 +1,11 @@
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\bin\Debug\netcoreapp2.2\SquareEveryDigit.deps.json
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\bin\Debug\netcoreapp2.2\SquareEveryDigit.runtimeconfig.json
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\bin\Debug\netcoreapp2.2\SquareEveryDigit.runtimeconfig.dev.json
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\bin\Debug\netcoreapp2.2\SquareEveryDigit.dll
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\bin\Debug\netcoreapp2.2\SquareEveryDigit.pdb
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\obj\Debug\netcoreapp2.2\SquareEveryDigit.csprojAssemblyReference.cache
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\obj\Debug\netcoreapp2.2\SquareEveryDigit.csproj.CoreCompileInputs.cache
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\obj\Debug\netcoreapp2.2\SquareEveryDigit.AssemblyInfoInputs.cache
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\obj\Debug\netcoreapp2.2\SquareEveryDigit.AssemblyInfo.cs
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\obj\Debug\netcoreapp2.2\SquareEveryDigit.dll
+C:\workspace\c-sharp-kata-practice\SquareEveryDigit\SquareEveryDigit\obj\Debug\netcoreapp2.2\SquareEveryDigit.pdb
